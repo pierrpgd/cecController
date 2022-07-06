@@ -1,2 +1,0 @@
-tv: off
-audio: unknown
